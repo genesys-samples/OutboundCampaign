@@ -1,5 +1,5 @@
 ---
-title: "email Campaigns"
+title: "Email Campaigns"
 chapter: true
 weight: 40
 ---

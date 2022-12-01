@@ -7,7 +7,7 @@ weight: 20
 ## Tools You'll Need
 
 
-* ### Github 
+* ### Test
     #### - Our repository can be found [here] (https://github.com/genesys-samples/cxAsCodeDevlab)
 
 * ### New Folder

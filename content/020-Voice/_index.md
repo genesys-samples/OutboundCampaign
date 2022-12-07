@@ -18,4 +18,7 @@ For todays workshop we will focus on the base configuration of a voice campaign,
 We see there are quite a few objectives this business has, before we get into automation lets take a look at this step by step:
 
 1) Creating a list of prospects to call
- 2) 
+2) Ensure the List of contacts in the list want or are able to be called
+3) create rules for our campaign
+4) create our campaign
+5) Schedule campaign 

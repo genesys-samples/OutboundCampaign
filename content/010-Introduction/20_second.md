@@ -7,7 +7,7 @@ weight: 20
 To be effective for all types of different outbound campaigns, Genesys Cloud CX offers a wide range of different dialing modes. Dialing modes determine when and how a campaign places a call. These different dialing modes do not apply to our digital campaigns as those are always Agentless. Let's go over the 6 different dialing modes that Genesys Cloud CX offers. If you'd rather read a more in-depth summary of our dialing modes, including the benefits and drawbacks of each dialing mode, navigate to this page in our resource center. https://help.mypurecloud.com/articles/dialing-modes/ 
 
 ### 1. Preview 
-This dialing mode will present information about the contact to an agent before dialing. An agent first accepts a call, then reviews the contact information, and then manually presses the call button. Preview dialing is typically used to reach high value contacts. 
+This dialing mode will present information about the contact to an agent before dialing. An agent first accepts a call, then reviews the contact information, and then manually presses the call button. Preview dialing is typically used to reach high-value contacts. 
 
 ### 2. Progressive 
 Progressive dialing automatically dials one contact for each available agent. For example, if 10 agents are available in a queue, the system will place 10 calls. 

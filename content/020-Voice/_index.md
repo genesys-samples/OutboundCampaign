@@ -7,7 +7,7 @@ weight: 20
 
 In this lesson, we will discuss the basics of getting started with building a voice campaign. Lets Take a look at our customer scenario once more:
 
-G Freight continues to grow and scale its ability to provide an empathetic experience to customers and prospects through multiple channels, the first and primary channel they focus on is voice. Although they are well established in their ability to take inbound interactions, their outbound capabilities today are not optimially configured, automated, and take quite a bit of manual work. 
+G Freight continues to grow and scale its ability to provide an empathetic experience to customers and prospects through multiple channels, the first and primary channel they focus on is voice. Although they are well established in their ability to take inbound interactions, their outbound capabilities today are not optimally configured, automated, and take quite a bit of manual work. 
 
 To begin, they know they need to design a process that automates the generated leads, taken from inbound requests on their website, and create prospective customer records that are then updated to a constantly running outbound campaign. Additionally, they want to ensure that numbers that have opted to not be contacted are not included or called within that campaign.
 
@@ -18,7 +18,6 @@ For todays workshop we will focus on the base configuration of a voice campaign,
 We see there are quite a few objectives this business has, before we get into automation lets take a look at this step by step:
 
 1) Creating a list of prospects to call
-2) Ensure the List of contacts in the list want or are able to be called
-3) create rules for our campaign
-4) create our campaign
-5) Schedule campaign 
+2) create rules for our campaign
+3) create our campaign
+4) Schedule campaign 

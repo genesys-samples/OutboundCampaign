@@ -8,7 +8,7 @@ weight: 10
 
 As we learned from an earlier section, the very first thing needed for any outbound campaign is a list of people to call, email or text In today's case, we will be building a basic list of our "prospects" to include, which in this case, is you!
 
-We begin by creating our csv file in excel. For today's workshop, our list will be very basic. We are only looking to include the name of the prospect, their phone number and any extra desired fields such as prospective interests taken from the G Freight site. Since we are only looking to start by making this functional, we will just add a name and phone number in the steps below:
+We begin by creating our CSV file in excel. For today's workshop, our list will be very basic. We are only looking to include the name of the prospect, their phone number and any extra desired fields such as prospective interests taken from the G Freight site. Since we are only looking to start by making this functional, we will just add a name and phone number in the steps below:
 
 First, we will open excel and create a new workbook. Once we have created our workbook, we will be creating two data fields, the first is the customer name and the second is the phone number. Then, add your desired name as well as a phone number you will be able to answer once called such as a cell or work number.
 
@@ -16,7 +16,7 @@ First, we will open excel and create a new workbook. Once we have created our wo
 
 > Note: Putting your friends phone number in here is funny, but remember, they will get a call!
 
-Next, we will need to save the file as a CSV. To do this in excel, click save as and select csv as the file type, shown below
+Next, we will need to save the file as a CSV. To do this in excel, click save as and select CSV as the file type, shown below
 
 ![image](/images/csvsaveas.png)![image](/images/csvsave.png)
 

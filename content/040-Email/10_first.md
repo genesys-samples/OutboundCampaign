@@ -5,7 +5,7 @@ weight: 10
 ---
 
 ## Create the list
-At this point, you should be pretty familiar with how to create a list via a CSV file. The only difference this time is that you will need a field for email instead of a phone number. In theory, you could have one list with both a phone number and email field. This would mean that the same list could be used for voice, sms and email campaigns. However, for G Freight, create a list with the following columns: 
+At this point, you should be pretty familiar with how to create a list via a CSV file. The only difference this time is that you will need a field for email instead of a phone number. In theory, you could have one list with both a phone number and an email field. This would mean that the same list could be used for voice, sms and email campaigns. However, for G Freight, create a list with the following columns: 
 
 - Name - Name of the person we are emailing
 - Email - The email address we are sending the email to

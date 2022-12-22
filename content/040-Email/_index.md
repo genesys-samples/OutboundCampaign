@@ -19,3 +19,5 @@ In this section, we will follow these steps to set up an email campaign:
     - We will not be covering this in our workshop because much of the configuration is done in your DNS provider
     - This article will show you how to set up an email domain for outbound email https://help.mypurecloud.com/articles/set-up-a-domain-for-outbound-email-campaigns/
     - **Important - This section will not be successful if you skip this prerequisite**
+- Optionally, if you want to allow people to respond to your outbound email, set up an email domain for inbound traffic
+    - https://help.mypurecloud.com/articles/manage-acd-email-routing/

@@ -19,6 +19,10 @@ For the G Freight SMS campaign, we'll be using an SMS Campaign Template. Follow 
 7. On the Insert Substitution section, click to insert the contact list that you created earlier for the SMS campaign
 ![Import Contact List](/images/importContactList.jpg)
 8. This should add substitution values for all the columns in your contact list. You can now paste in this message and any value in squiggly brackets will dynamically be filled with the value in the corresponding column for that contact
-    ```Hi {{Customer Name}}! 👋 G Freight here. Just wanted to give you a heads up that your package will be delivered on {{Delivery Date}}. You can keep up with where your package is by navigating to our tracking website and providing your tracking ID. www.packagetracker.com {{Tracking ID}}```
-9. Your response should look like this. If it does, press save
+    ```
+    Hi {{Customer Name}}! 👋 G Freight here. Just wanted to give you a heads up that your package will be delivered on {{Delivery Date}}. You can keep up with where your package is by navigating to our tracking website and providing your tracking ID. www.packagetracker.com {{Tracking ID}}
+    ```
+9. You'll need to replace the items in squiggly brackets with your actual insertion values
+    - We must do that because it will not recognize the substitution values if you paste them in. You must use the substitution values in the list
+10. Your response should look like this. If it does, press save
 ![SMS Template](/images/smsTemplate.jpg)

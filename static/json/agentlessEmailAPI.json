@@ -1,0 +1,63 @@
+{
+  "name": "AgentLess Email API Data Action - Exported 2022-12-22 @ 13:11",
+  "integrationType": "purecloud-data-actions",
+  "actionType": "custom",
+  "config": {
+    "request": {
+      "requestUrlTemplate": "/api/v2/conversations/emails/agentless",
+      "requestType": "POST",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "requestTemplate": "{ \"senderType\": \"${input.senderType}\", \"conversationId\": \"$!{input.conversationId}\", \"fromAddress\": { \"email\": \"${input.from}\" }, \"toAddresses\": [{ \"email\": \"${input.to}\"}], \"replyToAddress\": { \"email\": \"${input.replyTo}\" }, \"subject\": \"$!{input.subject}\", \"textBody\": \"$!{input.textBody}\", \"htmlBody\": \"$!{input.htmlBody}\" }"
+    },
+    "response": {
+      "translationMap": {},
+      "translationMapDefaults": {},
+      "successTemplate": "${rawResult}"
+    }
+  },
+  "contract": {
+    "input": {
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "senderType": {
+            "description": "Inbound, Outbound, or Integration",
+            "type": "string"
+          },
+          "conversationId": {
+            "type": "string"
+          },
+          "from": {
+            "type": "string"
+          },
+          "to": {
+            "type": "string"
+          },
+          "replyTo": {
+            "type": "string"
+          },
+          "subject": {
+            "type": "string"
+          },
+          "textBody": {
+            "type": "string"
+          },
+          "htmlBody": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "output": {
+      "successSchema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": true
+      }
+    }
+  },
+  "secure": false
+}

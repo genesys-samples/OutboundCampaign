@@ -29,4 +29,4 @@ Below you will see all of the fields where we created our configurations.
 
 Another way we can schedule when the campaign will call is through the schedule tab in the campaign management configuration window. However, take into mind that this does not configure time zone mapping unless it is designated within the campaign created. 
 
-![image]Now it's time to test your campaign! Ensure you are on queue and toggle the campaign on. You should receive an interaction within your agent window. 
+Now it's time to test your campaign! Ensure you are on queue and toggle the campaign on. You should receive an interaction within your agent window. 

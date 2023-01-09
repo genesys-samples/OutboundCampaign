@@ -1,12 +1,15 @@
 ---
-title: "Campaign Creation"
+title: "Scripting"
 chapter: false
 weight: 60
 ---
+## Scripting
+Scripting is an important part of any outbound voice campaign. Genesys Cloud CX provides a native Scripting tool that allows Outbound Administrators the ability to craft the desktop presented to agents when handling an outbound call. The scripting tool can present information about the customer the agent is calling, provide a script to help guide the conversation and be a place where they can complete processes such as receiving payment.
 
-## Campaign Creation
-Now that we've covered the building blocks, we are ready to talk about creating a campaign. If you are wondering why this is near the end of the introduction, it is because all of the other components that we just covered get applied to a campaign. In the image below, you see that we are defining everything that we've covered so far. 
-![Campaign Creation](/images/campaignCreation.jpg)
-Referencing back to the image, we have selected Progressive as our dialing mode, and chosen a call analysis response to use to specify what happens when there is a live voice vs an answering machine. We also selected our contact list and applied a contact list filter and DNC list. We have a set of call rules applied too that will execute actions if certain conditions are met. Last but not least, you'll notice that we are using Automatic Time Zone Mapping because there is nothing selected for Contactable Time Sets.
+How to create a script is not the focus of this workshop. Instead, we want you to understand how scripts are used as a vital part of outbound campaigns. If you do wish to learn more about creating a script, we have another workshop for you; "MeaningFul Interactions Part 1 - Agent Scripts." https://workshop.genesys.com/workshops/Architect_IVR_Data-Actions/ 
 
-One other important point is that we have a Queue assigned to this campaign. The queue is how we group the agents that should be calling on behalf of this campaign. 
+## Download & Import the Script 
+For today's workshop, we have provided an already-created script that we've made for G Freight. [Click here](/downloadables/GFreight.script) to download it. 
+
+Once you've downloaded the script to your machine, follow the steps outlined in this resource article to add it to your own Genesys Cloud CX instance. https://help.mypurecloud.com/articles/import-scripts/
+

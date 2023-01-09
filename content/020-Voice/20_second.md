@@ -15,9 +15,7 @@ We will then name and create our time set, moving on to select the schedule and 
 
 ![image](/images/nametimeset.png)
 
-Once you save and move to the schedule view, you can use your cursor to drag the schedule boxes to specific callable times you'd like the campaign to adhere to
-
-![image](/images/timesets.png)
+Once you save and move to the schedule view, you can use your cursor to drag the schedule boxes to specific callable times you'd like the campaign to adhere to.
 
 Now that we have created our Contactable time sets, we now have the basics of what's needed to create an outbound campaign.
 

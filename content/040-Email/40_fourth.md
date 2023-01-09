@@ -15,4 +15,4 @@ Similar to the Agentless SMS API that we covered earlier, Genesys Cloud also pro
 
 These are just a few examples. The ability to programmatically engage via different channels based on events that you define is one of the very powerful tools in Genesys Cloud CX!
 
-To download a JSON file to import as a Genesys Cloud data action into your org, [click here](/json/agentlessEmailAPI.json).
+To download a JSON file to import as a Genesys Cloud data action into your org, [click here](/downloadables/agentlessEmailAPI.json).

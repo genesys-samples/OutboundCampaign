@@ -22,7 +22,7 @@ A DNC (Do Not Contact) list is a source of phone numbers or email addresses to e
 3. DNC.com - integrates Outbound Dialing with just-in-time DNC scrubbing provided by Contact Center Compliance Corporation’s web service. To use this feature, you must have a subscription with the provider.
 
 ### Attempt Controls 
-Have you ever been called by the same number way too many times? It's extremely frustrating to be on the receiving end of that. As a business, you don't want to be frustrating the people you are calling. You also don't want to break any TCPA requirements.* Attempt Controls are a way to limit the frequency with that you are reaching out to certain customers or certain numbers.
+Have you ever been called by the same number way too many times? It's extremely frustrating to be on the receiving end of that. As a business, you don't want to be frustrating the people you are calling. You also want to stay within any compliance requirements. Attempt Controls are a way to limit the frequency with that you are reaching out to certain customers or certain numbers.
 
 
-* Disclaimer - This workshop will not provide any legal guidance. Please consult with your legal team about how you can stay within TCPA compliance.
+* Disclaimer - This workshop will not provide any legal guidance. Please consult with your legal/compliance team about how you can stay within compliance requirements.

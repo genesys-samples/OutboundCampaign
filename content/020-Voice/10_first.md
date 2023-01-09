@@ -31,7 +31,7 @@ Once your list successfully uploads, you will need to name your list, and then s
 
 ## Creating Our Queue
 For the campaign to know which agents to send the interaction to, we will need to create a queue with agents we would like to handle the outbound interactions. To do this, we navigate from Admin > Contact Center > Queues. Next, create a new queue and add our user as an agent. Name the queue something relational to outbound, for easier reference when creating our outbound campaign. 
-> Shortcut tip: if your using the same agents and configurations as another queue, you may select that queue with the "copy settings and members from" button"
+> Shortcut tip: if your using the same agents and configurations as another queue, you may select that queue with the "copy settings and members from" button
 
 ![image](/images/createqueue.png)![image](/images/queuemembers.png)![image](/images/addusertoqueue.png)
 

@@ -11,7 +11,7 @@ The Genesys Cloud Agentless SMS API allows developers to send and receive SMS me
 
 You can download the JSON file to import into your org and create a data action that utilizes the Agentless SMS API. You can then use this data action in Architect flows or scripts.
 
-[Download the Agentless SMS Data Action](/json/agentlessSMSAPI.json)
+[Download the Agentless SMS Data Action](/downloadables/agentlessSMSAPI.json)
 
 To explore other ideas for using the Agentless SMS API, consider the following use cases: 
 - Sending an SMS with a 4-digit code for Multi-Factor Authentication in an IVR

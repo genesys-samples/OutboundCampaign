@@ -9,9 +9,9 @@ Oftentimes, contacts aren't on a list already when you want to send them a text 
 
 The Genesys Cloud Agentless SMS API allows developers to send and receive SMS messages without the need for a traditional agent. This API can be integrated into a variety of applications and systems, enabling users to communicate with their customers through SMS seamlessly and efficiently. The API supports both inbound and outbound SMS messaging, as well as the ability to track delivery status and manage responses. With the Genesys Cloud Agentless SMS API, developers can easily add SMS functionality to their applications and improve customer communication and satisfaction. In G Freight's example, they can use this API to send a text message to a customer when an update is made to delivery in their delivery management system.
 
-You can download the JSON file to import into your org and create a data action that utilizes the Agentless SMS API. You can then use this data action in Architect flows or scripts.
+You have already downloaded the JSON file to import into your org and create a data action that utilizes the Agentless SMS API earlier in the workshop. You can then use this data action in Architect flows or scripts.
 
-[Download the Agentless SMS Data Action](/downloadables/agentlessSMSAPI.json)
+Using the agentlessSMSAPI.json file that you downloaded earlier, follow these instructions to import as a data action in your org. https://help.mypurecloud.com/articles/import-or-export-a-data-action-for-integrations/ Importantly, ensure that you are importing as a Genesys Cloud Data Action as this is an internal API call. If you don't have the Genesys Cloud Data Actions integration installed, follow this article. https://help.mypurecloud.com/articles/about-genesys-cloud-data-actions-integration/
 
 To explore other ideas for using the Agentless SMS API, consider the following use cases: 
 - Sending an SMS with a 4-digit code for Multi-Factor Authentication in an IVR

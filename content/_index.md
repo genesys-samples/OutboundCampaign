@@ -18,6 +18,17 @@ G Freight wants to use SMS for freight delivery updates. For example, they want 
 ### Email
 G Freight wants to utilize email campaigns for offering discounts to their customers during the holiday season. Black Friday is coming up, and G Freight wants to gather up more of their customer's shipping needs by offering Black Friday discounts to them.
 
+## Download Key Assets  
+As a part of today's workshop, we are giving you access to some key resources that you can use to help G Freight with its outbound endeavors. The resources are: 
+- An Agentless SMS API Data Action - This API allows you to send SMS notifications without involving an agent. This feature allows Genesys Cloud to send SMS notifications from backend systems automatically, based on triggered events or from an Architect flow or script.
+- An Agentless Email API Data Action - Similar to the SMS API above, this API allows you to send emails without the need to involve an agent. Once again, this allows Genesys to send emails from backend systems or an Architect flow or script.
+- Script - Scripts allow you to customize the agent desktop in a way to help agents process interactions. They are a vital part of outbound campaigns.
+
+To download these files, navigate to this GitHub repository, https://github.com/genesys-samples/OutboundCampaignWSDownloadables, and click Code and then "Download ZIP."
+![Download Repo](/images/repoDownload.jpg)
+
+You'll then extract the files somewhere where you can find them later on in the workshop. 
+
 ## Learning Objectives
 - Learn to setup and configure both voice and digital campaigns
 - Learn how the Genesys Cloud CX Outbound APIs can be leveraged for automation 

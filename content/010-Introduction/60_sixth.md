@@ -8,8 +8,8 @@ Scripting is an important part of any outbound voice campaign. Genesys Cloud CX 
 
 How to create a script is not the focus of this workshop. Instead, we want you to understand how scripts are used as a vital part of outbound campaigns. If you do wish to learn more about creating a script, we have another workshop for you; "MeaningFul Interactions Part 1 - Agent Scripts." https://workshop.genesys.com/workshops/Architect_IVR_Data-Actions/ 
 
-## Download & Import the Script 
-For today's workshop, we have provided an already-created script that we've made for G Freight. [Click here](/downloadables/GFreight.script) to download it. 
+## Import the Script 
+For today's workshop, we have provided an already-created script that we've made for G Freight. This was one of the files that you should have downloaded earlier in the workshop on the introduction page. 
 
-Once you've downloaded the script to your machine, follow the steps outlined in this resource article to add it to your own Genesys Cloud CX instance. https://help.mypurecloud.com/articles/import-scripts/
+Using the GFreight.script file, follow the steps outlined in this resource article to add it to your own Genesys Cloud CX instance. https://help.mypurecloud.com/articles/import-scripts/
 
